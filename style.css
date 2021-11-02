@@ -1,0 +1,169 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.sg
+{
+
+    height: 500px;
+    width: 100%;
+}
+
+section{
+
+    height: 414px;
+    width: 72%;
+    margin-top :20rem;
+    margin-left: 20rem;
+    border: 11px solid #D8D8D8;
+
+}
+#gauche
+{
+    height: 500px;
+    width: 60%;
+}
+#bradley
+{
+    position: relative;
+    height: 139px;
+    width: 66%;
+    background-color: lightgreen;
+    text-align: left;
+    color: white;
+
+}
+#text
+{
+    margin-left: 2rem;
+
+
+}
+#profile
+
+{  background-color: yellow;
+    height: 144px;
+    width: 36%;
+    margin-left: 24rem;
+    margin-top:-141px;
+    text-align: center;
+    color: white;
+}
+#experience
+{
+
+    border: solid black 1px;
+
+    height: 139px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+#education
+{
+
+
+    height: 139px;
+    width: 33%;
+    margin-left: 12rem;
+    background-color:red;
+    color: white;
+    text-align: center;
+}
+
+
+#blog
+{
+
+
+    height: 139px;
+    width: 36%;
+    margin-left: 24rem;
+    margin-top:-141px;
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+
+}
+#plus
+{
+
+    height: 139px;
+    width: 36%;
+    background-color: orange;
+    text-align: center;
+    color: white;
+
+}
+#contact
+{
+
+    height: 139px;
+    width: 36%;
+    margin-left: 12rem;
+    margin-top: -138px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+#portfolio
+{
+
+    height: 139px;
+    width: 36%;
+    margin-left:24rem;
+    margin-top: -221px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+
+}
+
+#image
+{
+    background-image: url("homme.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: absolute;
+    margin-left: 24rem;
+    margin-top: -9rem;
+    height: 420px;
+    width: 100%;
+    text-align: center;
+
+}
+i
+{
+    margin-top: 2rem;
+    font-size:40px;
+}
+
+.resume {
+    display: block;
+    width: 100px;
+    line-height: 35px;
+    text-align: center;
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    border: 0.125rem solid #fff;
+
+}
+.contact
+{
+    display: block;
+    width: 100px;
+    line-height: 35px;
+    text-align: center;
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    border: 0.125rem solid #fff;
+    margin-left: 8rem;
+   margin-top: -39px;
+}
+
